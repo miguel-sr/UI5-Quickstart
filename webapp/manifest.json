@@ -1,0 +1,6 @@
+{
+  "sap.app": {
+    "id": "sap.m.tutorial.quickstart.01",
+    "type": "application"
+  }
+}
